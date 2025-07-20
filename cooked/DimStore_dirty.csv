@@ -1,0 +1,51 @@
+store_id,store_type,store_location,region
+STORE_1,Online,,North
+STORE_2,Online,,East
+STORE_3,Physical,New Crystal,North
+STORE_4,Physical,Allenhaven,East
+STORE_5,Physical,Peterfort,North
+STORE_6,Online,,East
+STORE_7,Physical,Esparzaport,West
+STORE_8,Online,,South
+STORE_9,Online,,East
+STORE_10,Physical,Davisbury,West
+STORE_11,Physical,West Heather,North
+STORE_12,Online,,West
+STORE_13,Online,,West
+STORE_14,Physical,Bryantberg,West
+STORE_15,Physical,Stevenfort,North
+STORE_16,Physical,New Jeremy,East
+STORE_17,Online,,South
+STORE_18,Physical,South Nicholas,East
+STORE_19,Online,,South
+STORE_20,Physical,Schultzhaven,North
+STORE_21,Physical,West Kathy,West
+STORE_22,Online,,West
+STORE_23,Online,,North
+STORE_24,Physical,East Carolstad,East
+STORE_25,Online,,East
+STORE_26,Physical,Port Chadshire,North
+STORE_27,Physical,Sanchezland,South
+STORE_28,Physical,Scottchester,West
+STORE_29,Physical,South Andrea,South
+STORE_30,Physical,Lake Michelle,South
+STORE_31,Online,,East
+STORE_32,Online,,South
+STORE_33,Online,,West
+STORE_34,Online,,West
+STORE_35,Online,,South
+STORE_36,Physical,Muellerside,West
+STORE_37,Physical,Port Jamestown,East
+STORE_38,Online,,North
+STORE_39,Online,,South
+STORE_40,Online,,West
+STORE_41,Physical,Morrisport,North
+STORE_42,Online,,East
+STORE_43,Online,,North
+STORE_44,Physical,West Rachaelburgh,West
+STORE_45,Online,,North
+STORE_46,Physical,Lake Glenn,North
+STORE_47,Physical,Rodriguezfort,South
+STORE_48,Physical,Port Brianfurt,South
+STORE_49,Online,,East
+STORE_50,Physical,East Kenttown,East

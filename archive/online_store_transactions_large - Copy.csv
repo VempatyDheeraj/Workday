@@ -1,0 +1,12 @@
+transaction_id,customer_id,transaction_date,product_id,product_category,quantity,price_per_unit,total_amount,city,state
+10000,C2522,2024-12-19,P302,Home & Kitchen,5,269.14,1345.7,Lake Michael,Vermont
+10001,C2573,2025-05-14,P202,Clothing,3,112.92,338.76,Port Lisaberg,South Dakota
+10002,C3465,2024-11-04,P100,Electronics,2,318.48,636.96,New Anthonyland,Illinois
+10003,C3680,2024-09-20,P100,Electronics,5,484.48,2422.4,Greenview,Delaware
+10004,C1306,2024-09-07,P200,Clothing,4,463.5,1854.0,Lake Gary,Tennessee
+10005,C2942,2025-02-23,P502,Beauty,3,157.72,473.16,Gregoryfort,Tennessee
+10006,C1785,2025-05-19,P202,Clothing,2,31.47,62.94,Seanport,North Carolina
+10007,C3295,2024-07-15,P402,Sports,3,446.88,1340.64,South Elizabeth,Arkansas
+10008,C1480,2025-05-06,P301,Home & Kitchen,4,318.63,1274.52,Garciaborough,Alabama
+10009,C3063,2024-10-21,P400,Sports,4,215.31,861.24,Gallowaybury,South Dakota
+10010,C1528,2024-07-10,P100,Electronics,5,144.33,721.65,Port Nicole,Virginia
